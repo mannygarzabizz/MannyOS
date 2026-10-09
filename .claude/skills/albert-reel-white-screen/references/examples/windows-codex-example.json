@@ -1,0 +1,116 @@
+{
+ "screen_src": "/Users/albertbakhoj/Desktop/SHORTS/2026-08-07 11-38-32.mov",
+ "offset": 1.585,
+ "edl": "edit/edl.json",
+ "edl_sil": "edit/edl_sil.json",
+ "extra_edls": [
+  "edit/edl_fix.json",
+  "edit/edl_fix2.json"
+ ],
+ "windows": [
+  {
+   "start": 5.7,
+   "end": 9.5,
+   "zoom": 1.55,
+   "fx": 0.3,
+   "fy": 0.3,
+   "hold": 0.5,
+   "punch": 0.35,
+   "stages": [
+    {
+     "at": 0.5,
+     "zoom": 1.55,
+     "fx": 0.3,
+     "fy": 0.3
+    },
+    {
+     "at": 2.66,
+     "zoom": 1.85,
+     "fx": 0.18,
+     "fy": 0.03
+    }
+   ]
+  },
+  {
+   "start": 9.5,
+   "end": 12.5,
+   "zoom": 1.8,
+   "fx": 0.5,
+   "fy": 0.95,
+   "hold": 0.5,
+   "punch": 0.35,
+   "stages": [
+    {
+     "at": 0.5,
+     "zoom": 1.75,
+     "fx": 0.52,
+     "fy": 0.36
+    },
+    {
+     "at": 1.63,
+     "zoom": 1.9,
+     "fx": 1.0,
+     "fy": 0.0
+    }
+   ]
+  },
+  {
+   "start": 12.5,
+   "end": 14.68,
+   "zoom": 1.5,
+   "fx": 0.5,
+   "fy": 0.45,
+   "hold": 0.5,
+   "punch": 0.35,
+   "stages": [
+    {
+     "at": 0.5,
+     "zoom": 1.75,
+     "fx": 0.5,
+     "fy": 0.38
+    }
+   ]
+  },
+  {
+   "start": 14.68,
+   "end": 20.88,
+   "zoom": 1.7,
+   "fx": 0.4,
+   "fy": 0.95,
+   "hold": 0.5,
+   "punch": 0.35,
+   "stages": [
+    {
+     "at": 0.5,
+     "zoom": 1.75,
+     "fx": 0.36,
+     "fy": 0.3
+    },
+    {
+     "at": 2.12,
+     "zoom": 1.9,
+     "fx": 1.0,
+     "fy": 0.0
+    }
+   ]
+  },
+  {
+   "start": 20.88,
+   "end": 24.4,
+   "zoom": 1.7,
+   "fx": 0.95,
+   "fy": 0.08,
+   "hold": 0.5,
+   "punch": 0.35,
+   "stages": [
+    {
+     "at": 0.5,
+     "zoom": 1.9,
+     "fx": 1.0,
+     "fy": 0.0
+    }
+   ]
+  }
+ ],
+ "src_crop": "1664:936:128:40"
+}

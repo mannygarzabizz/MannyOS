@@ -1,0 +1,162 @@
+{
+ "screen_src": "/Users/albertbakhoj/Desktop/SHORTS/2026-08-07 11-26-53.mov",
+ "offset": -137.63500000000002,
+ "src_crop": "1664:936:128:40",
+ "edl": "edit/edl.json",
+ "edl_sil": "edit/edl_sil.json",
+ "extra_edls": [
+  "edit/edl_fix.json",
+  "edit/edl_fix2.json",
+  "edit/edl_fix3.json"
+ ],
+ "windows": [
+  {
+   "start": 0.0,
+   "end": 2.06,
+   "screen_src": "/Users/albertbakhoj/Desktop/SHORTS/2026-08-07 11-26-53.mov",
+   "src_t": 84.5,
+   "stages": [
+    {
+     "at": 0.3,
+     "zoom": 2.4,
+     "fx": 0.52,
+     "fy": 0.52
+    }
+   ]
+  },
+  {
+   "start": 2.06,
+   "end": 3.92,
+   "screen_src": "/Users/albertbakhoj/Desktop/SHORTS/2026-08-07 11-35-19.mov",
+   "offset": 3.8,
+   "stages": [
+    {
+     "at": 0.4,
+     "zoom": 1.6,
+     "fx": 0.35,
+     "fy": 0.35
+    }
+   ]
+  },
+  {
+   "start": 3.9,
+   "end": 8.02,
+   "stages": [
+    {
+     "at": 0.5,
+     "zoom": 1.8,
+     "fx": 0.0,
+     "fy": 0.04
+    },
+    {
+     "at": 3.42,
+     "zoom": 1.6,
+     "fx": 0.35,
+     "fy": 0.32
+    }
+   ]
+  },
+  {
+   "start": 8.02,
+   "end": 12.48,
+   "stages": [
+    {
+     "at": 0.5,
+     "zoom": 1.5,
+     "fx": 0.5,
+     "fy": 0.14
+    },
+    {
+     "at": 3.24,
+     "zoom": 1.9,
+     "fx": 0.25,
+     "fy": 0.02
+    }
+   ]
+  },
+  {
+   "start": 12.48,
+   "end": 17.14,
+   "stages": [
+    {
+     "at": 0.5,
+     "zoom": 1.8,
+     "fx": 0.06,
+     "fy": 0.3
+    },
+    {
+     "at": 3.9,
+     "zoom": 1.8,
+     "fx": 0.04,
+     "fy": 0.75
+    }
+   ]
+  },
+  {
+   "start": 23.74,
+   "end": 30.04,
+   "stages": [
+    {
+     "at": 0.5,
+     "zoom": 1.6,
+     "fx": 0.4,
+     "fy": 0.18
+    },
+    {
+     "at": 3.0,
+     "zoom": 1.7,
+     "fx": 0.35,
+     "fy": 0.6
+    }
+   ]
+  },
+  {
+   "start": 30.4,
+   "end": 33.2,
+   "stages": [
+    {
+     "at": 0.5,
+     "zoom": 1.6,
+     "fx": 0.35,
+     "fy": 0.45
+    }
+   ]
+  },
+  {
+   "start": 33.2,
+   "end": 39.78,
+   "stages": [
+    {
+     "at": 0.5,
+     "zoom": 1.7,
+     "fx": 0.28,
+     "fy": 0.3
+    }
+   ]
+  },
+  {
+   "start": 39.78,
+   "end": 43.72,
+   "stages": [
+    {
+     "at": 0.5,
+     "zoom": 1.7,
+     "fx": 0.3,
+     "fy": 0.4
+    }
+   ]
+  },
+  {
+   "start": 43.72,
+   "end": 50.3,
+   "stages": [
+    {
+     "at": 0.5,
+     "zoom": 1.7,
+     "fx": 0.55,
+     "fy": 0.6
+    }
+   ]
+  }
+ ]
+}

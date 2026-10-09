@@ -1,0 +1,13 @@
+{
+ "cut": "edit/cutFFF.mp4",
+ "cards": "cards/cards_all.mp4",
+ "capt_dir": "edit/capt_white",
+ "seg_dir": "seg",
+ "windows_json": "edit/windows.json",
+ "music": "/Users/albertbakhoj/Desktop/Famous Skills/.claude/skills/famous-reel-editor/assets/bg-music.m4a",
+ "music_vol": 0.06,
+ "offset_speaker": 310,
+ "frame_top": 1020,
+ "popout_top": 720,
+ "capt_y": 40
+}
